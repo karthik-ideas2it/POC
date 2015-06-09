@@ -1,0 +1,6 @@
+framework module FMW {
+  umbrella header "FMW.h"
+
+  export *
+  module * { export * }
+}
